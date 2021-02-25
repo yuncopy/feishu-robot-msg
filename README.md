@@ -10,7 +10,7 @@
 
 # 安装
 ```shell
-composer require yuncopy/feishu
+composer require yuncopy/feishu-robot-msg
 ```
 
 
