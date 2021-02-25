@@ -1,5 +1,5 @@
 {
-  "name": "yuncopy/feishu",
+  "name": "yuncopy/feishu-robot-msg",
   "type": "feishu-robot-extension",
   "description": "Flying Book sending warning message robot",
   "keywords": ["feishu", "robot", "message", "send"],
