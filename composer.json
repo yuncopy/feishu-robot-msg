@@ -1,0 +1,23 @@
+{
+  "name": "yuncopy/feishu",
+  "type": "feishu-robot-extension",
+  "description": "Flying Book sending warning message robot",
+  "keywords": ["feishu", "robot", "message", "send"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/yuncopy/feishu-robot-msg/issues",
+    "forum": "https://github.com/yuncopy",
+    "source": "https://github.com/yuncopy/feishu-robot-msg"
+  },
+  "authors": [
+    {
+      "name": "yuncopy",
+      "email": "yuncopy@sina.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "yuncopy\\feishu\\": "src/"
+    }
+  }
+}
