@@ -16,7 +16,7 @@ class sendMsg{
 
     /**
      * Notes: 发送飞书消息
-     * User: jackin.chen
+     * User: yuncopy.chen
      * Date: 2021/2/25 下午5:37
      * function: doSendMessage
      * @param string $title
@@ -38,7 +38,7 @@ class sendMsg{
 
     /**
      * Notes: 执行发送
-     * User: jackin.chen
+     * User: yuncopy.chen
      * Date: 2021/2/25 下午6:25
      * function: sendRequest
      * @param $title
@@ -64,7 +64,7 @@ class sendMsg{
 
     /**
      * Notes: HmacSHA256 算法计算签名
-     * User: jackin.chen
+     * User: yuncopy.chen
      * Date: 2021/2/25 下午5:46
      * function: makeSign
      * @param string $time
