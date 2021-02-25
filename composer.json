@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "yuncopy\\feishu\\": "src/"
+      "yuncopy\\feishu-robot-msg\\": "src/"
     }
   }
 }
