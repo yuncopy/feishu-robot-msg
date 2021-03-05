@@ -10,13 +10,15 @@
 
 # 安装
 ```shell
-composer require yuncopy/feishu-robot-msg
+composer require php-feishu/robot-msg
 ```
 
 
 
 # 示例
 ```php
+
+require __DIR__ . '/vendor/autoload.php';
 
 use Feishu\SendMsg;
 
