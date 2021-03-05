@@ -23,7 +23,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "yuncopy\\feishu-robot-msg\\": "src/"
+      "php-feishu\\robot-msg\\": "src/"
     }
   }
 }
