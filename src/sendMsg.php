@@ -1,6 +1,6 @@
 <?php
 
-namespace Feishu\Robot;
+namespace Feishu;
 
 class sendMsg{
 
