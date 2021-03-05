@@ -20,7 +20,6 @@ composer require php-feishu/robot-msg
 
 require __DIR__ . '/vendor/autoload.php';
 
-use Feishu\SendMsg;
 
 /*
 * function: noticeMsg
@@ -28,4 +27,4 @@ use Feishu\SendMsg;
 * @param string $content 发送内容
 * @param string $developer 具体开发者，在项目尽量使用常量定义
 */
-sendMsg::noticeMsg('通知标题','通知的具体内容','jackin.chen');
+\Feishu\Robot\SendMsg::noticeMsg('通知标题','通知的具体内容','jackin.chen');
